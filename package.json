@@ -1,5 +1,5 @@
 {
-    "name": "sd-daemon",
+    "name": "eyeos-sd-daemon",
     "version": "0.4.0",
     
     "description": "Bindings for libsystemd-daemon",
