@@ -1,6 +1,13 @@
 # Bindings for libsystemd-daemon #
 
 ## Dependencies ##
+### Fedora ###
+*  pkgconfig
+*  systemd-devel
+```bash 
+yum install -y pkgconfig systemd-devel
+```
+### Debian ###
 * pkg-config
 * libsystemd-daemon-dev
 
